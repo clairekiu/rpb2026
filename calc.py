@@ -9,3 +9,6 @@ def divide(x, y):
         print("Error: cannot divide by zero.")
     else:
         return x/y
+    
+def add(x, y):
+    return x+y
